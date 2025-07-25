@@ -7,8 +7,10 @@
 
 - 📫 How to reach me **swapnilduphare07@gmail.com**
 
-- ⚡ I am a highly motivated Front-End Developer with over a year of experience in creating user-friendly web applications. I'm skilled in HTML, CSS, JavaScript, and React, focusing on delivering responsive and interactive user experiences. My passion lies in enhancing design and optimizing performance, ready to contribute effectively to a dynamic team and grow within the development field.
-  Fun fact **I am also having great knowledge about Digital Marketing.**
+- ⚡ I am a highly motivated Front-End Developer with 1+ years of experience in creating user-friendly web applications.
+ I'm skilled in HTML, CSS, JavaScript, React Js, GSAP and Swiper Js, focusing on delivering responsive and interactive user experiences.
+ My passion lies in enhancing design and optimizing performance, ready to contribute effectively to a dynamic team and grow within the development field.
+Fun fact **I am also having great knowledge about Digital Marketing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
