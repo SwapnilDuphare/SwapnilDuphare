@@ -12,7 +12,7 @@
  My passion lies in enhancing design and optimizing performance, ready to contribute effectively to a dynamic team and grow within the development field.
 Fun fact **I am also having great knowledge about Digital Marketing.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:+91 9325406077</h3>
 <p align="left">
 </p>
 
